@@ -294,9 +294,7 @@ h3{
     h3{
         font-size: 13px;
     }
-    .qr{
-        width:50%
-    }
+
 }
 @media(min-height:700){
     @keyframes correct{
